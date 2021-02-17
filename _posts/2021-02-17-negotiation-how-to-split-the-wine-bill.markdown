@@ -11,8 +11,8 @@ I have been taking a Coursera course about [negotiation](https://www.coursera.or
 I strongly recommend it as the [Barry Nalebuff](https://som.yale.edu/faculty/barry-nalebuff) is a **fantastic** lecturer and course is highly interactive. :+1:  
 
 The course will help you to become a better negotiator by developing a **framework** to analyze and shape negotiations.
-The framework will allow us to make principled arguments to convince the counter party. Moreover, the framework could
-allow us to see beneath the surface of apparent conflicts to uncover the underlying interests and benefits.
+The framework will allow you to make principled arguments to convince the counter party. Moreover, the framework could
+allow you to see beneath the surface of apparent conflicts to uncover the underlying interests and benefits.
 
 Before I share the notes of the framework, let's get started with a sip of wine. :clinking_glasses:
 
